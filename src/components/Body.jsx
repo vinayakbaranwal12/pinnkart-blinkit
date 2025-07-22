@@ -1,5 +1,5 @@
 import Header from './Header'; // Correct import
-import Herosection from './herosection';
+import Herosection from './Herosection';
 
 const Body = () => {
   return (
